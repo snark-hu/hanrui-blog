@@ -5,10 +5,10 @@ pubDate: 2022-05-19
 description: '我的Windows开发环境配置'
 author: 'Snark'
 cover:
-    url: '../../../public/images/4.jpg'  ## 宽屏图片
+    url: '../../../public/images/5.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
-tags: ["开发环境", "WSL", "代理", "Windows开发环境搭建"]
+tags: ["开发环境", "WSL", "scoop", "Windows开发环境搭建", "powershell美化"]
 theme: 'dark'
 featured: true
 ---
@@ -332,7 +332,7 @@ PS C:\Users\dh176>
 
 打开Git Bash，设置user.name和user.email配置信息：
 
-![](https://i.328888.xyz/2023/03/17/LN4It.png)
+![|inline](https://i.328888.xyz/2023/03/17/LN4It.png)
 
 ```
 git config --global user.name "你的GitHub用户名"
