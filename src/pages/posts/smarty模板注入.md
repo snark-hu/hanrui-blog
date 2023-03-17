@@ -2,15 +2,15 @@
 layout: '../../layouts/MarkdownPost.astro'  ## 布局文件
 title: 'WEB-smarty模板注入'
 pubDate: 2022-010-19
-description: '刷题ing'
+description: '刷题ing'  ## 文章摘要
 author: 'Snark'
 cover:
-    url: 'https://th.wallhaven.cc/small/l3/l3xk6q.jpg'  ## 宽屏图片
+    url: 'https://w.wallhaven.cc/full/we/wallhaven-we1ml7.png'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["CTF", "WEB", "刷题"]
-theme: 'dark'
-featured: true
+theme: 'dark'  ## 主题背景色，light或dark
+featured: false  ## 是否特色文章
 ---
 
 # WP
