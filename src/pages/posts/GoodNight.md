@@ -5,7 +5,7 @@ pubDate: 2023-03-13
 description: '疯狂刷题ing'
 author: 'Snark'
 cover:
-    url: '../../../public/images/1.png'  ## 宽屏图片
+    url: '../../../public/images/1.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["CTF", "MISC", "刷题"]

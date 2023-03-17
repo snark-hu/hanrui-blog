@@ -3,9 +3,9 @@ layout: '../../layouts/MarkdownPost.astro'  ## 布局文件
 title: 'MISC-helloshark'
 pubDate: 2023-03-13
 description: '平平无奇的一道杂项'
-author: 'Apple Newsroom'
+author: 'Snark'
 cover:
-    url: '../../../public/preview/images/1.png'  ## 宽屏图片
+    url: '../../../public/images/2.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["CTF", "MISC", "刷题"]
@@ -22,7 +22,6 @@ featured: true
 解压后发现是个.bmp的图片，直接拖进kali用foremost分离，但是我这里是用的7z直接就点开了
 
 ![](https://i.328888.xyz/2023/03/16/K53DP.png)
-
 
 打开后发现需要解压密码，根据他的提示可知解压密码就在我们之前那个.bmp图片里
 

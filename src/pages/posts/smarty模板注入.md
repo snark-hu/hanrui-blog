@@ -3,9 +3,9 @@ layout: '../../layouts/MarkdownPost.astro'  ## 布局文件
 title: 'WEB-smarty模板注入'
 pubDate: 2022-010-19
 description: '刷题ing'
-author: 'Apple Newsroom'
+author: 'Snark'
 cover:
-    url: '../../../public/preview/images/1.png'  ## 宽屏图片
+    url: '../../../public/images/3.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["CTF", "WEB", "刷题"]
