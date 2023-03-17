@@ -5,7 +5,7 @@ pubDate: 2023-03-13
 description: '平平无奇的一道杂项'
 author: 'Snark'
 cover:
-    url: '../../../public/images/0.jpg'  ## 宽屏图片
+    url: 'https://w.wallhaven.cc/full/jx/wallhaven-jxep8y.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["CTF", "MISC", "刷题"]

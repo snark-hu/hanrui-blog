@@ -5,7 +5,7 @@ pubDate: 2022-010-19
 description: '刷题ing'
 author: 'Snark'
 cover:
-    url: '../../../public/images/3.jpg'  ## 宽屏图片
+    url: 'https://th.wallhaven.cc/small/l3/l3xk6q.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["CTF", "WEB", "刷题"]
