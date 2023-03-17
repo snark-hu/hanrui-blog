@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'  ## 布局文件
-title: 'GoodNight'
+title: 'MISC-GoodNight'
 pubDate: 2023-03-13
 description: '疯狂刷题ing'
 author: 'Snark'

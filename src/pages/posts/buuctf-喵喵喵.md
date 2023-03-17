@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'  ## 布局文件
-title: '喵喵喵'
+title: 'MISC-喵喵喵'
 pubDate: 2023-03-13
 description: '平平无奇的一道杂项'
 author: 'Snark'
