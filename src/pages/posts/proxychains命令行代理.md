@@ -5,7 +5,7 @@ pubDate: 2022-07-19
 description: '如何配置命令行代理'
 author: 'Snark'
 cover:
-    url: 'https://w.wallhaven.cc/full/p9/wallhaven-p9op59.jpg'  ## 宽屏图片
+    url: 'https://cdn.jsdelivr.net/gh/emyia2001/image@main/test/202303211456531.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["Tools", "工具", "代理"]

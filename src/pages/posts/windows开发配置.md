@@ -5,7 +5,7 @@ pubDate: 2022-05-19
 description: '我的Windows开发环境配置'
 author: 'Snark'
 cover:
-    url: 'https://th.wallhaven.cc/small/y8/y8622k.jpg'  ## 宽屏图片
+    url: 'https://cdn.jsdelivr.net/gh/emyia2001/image@main/test/202303211456535.png'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["开发环境", "WSL", "scoop", "Windows开发环境搭建", "powershell美化"]

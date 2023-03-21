@@ -5,7 +5,7 @@ pubDate: 2022-05-23
 description: '文件上传'  ## 文章摘要
 author: 'Snark'
 cover:
-    url: 'https://w.wallhaven.cc/full/zy/wallhaven-zyz9zo.png'  ## 宽屏图片
+    url: 'https://cdn.jsdelivr.net/gh/emyia2001/image@main/test/202303211456525.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["WEB", "文件上传", "CTF"]

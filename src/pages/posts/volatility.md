@@ -5,7 +5,7 @@ pubDate: 2022-03-22
 description: '常用的内存取证工具'  ## 文章摘要
 author: 'Snark'
 cover:
-    url: 'https://w.wallhaven.cc/full/d6/wallhaven-d63eqg.jpg'  ## 宽屏图片
+    url: 'https://cdn.jsdelivr.net/gh/emyia2001/image@main/test/202303211456533.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["Tools", "内存取证", "Volatility", "工具"]

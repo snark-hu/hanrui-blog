@@ -5,7 +5,7 @@ pubDate: 2022-05-23
 description: '常见服务搭建'  ## 文章摘要
 author: 'Snark'
 cover:
-    url: 'https://w.wallhaven.cc/full/yx/wallhaven-yx5vyk.jpg'  ## 宽屏图片
+    url: 'https://cdn.jsdelivr.net/gh/emyia2001/image@main/test/202303211456528.jpg'  ## 宽屏图片
     square: ''  ## 方形图片
     alt: 'cover'
 tags: ["服务搭建", "DNS", ]
